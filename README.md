@@ -69,15 +69,15 @@ The Instacart data was analysed using Python and the following libraries:
 
 The project is organized with the following struture:
 
-    ● 01 Project Management, contains project brief
+● 01 Project Management, contains project brief
     
-    ● 02 Data, not uploaded to GitHub due to size. This folder has 2 subfolders: Original data and Prepared data
+● 02 Data, not uploaded to GitHub due to size. This folder has 2 subfolders: Original data and Prepared data
     
-    ● 03 Scripts, contains the Jupyter notebooks coded for the analysis
+● 03 Scripts, contains the Jupyter notebooks coded for the analysis
     
-    ● 04 Analysis: contains the visualizations used for developing and explaining insights
+● 04 Analysis: contains the visualizations used for developing and explaining insights
     
-    ● 05 Sent to cliente, contains the final report in Excel
+● 05 Sent to cliente, contains the final report in Excel
 
 
 
